@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1756246380186,
+    "titulo": "evento futuro ",
+    "data": "2025-08-30"
+  },
+  {
+    "id": 1756246397843,
+    "titulo": "evento mais perto da data",
+    "data": "2025-08-27"
+  },
+  {
+    "id": 1756246418574,
+    "titulo": "evento passado",
+    "data": "2025-08-20"
+  }
+]
